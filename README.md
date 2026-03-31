@@ -82,14 +82,6 @@ Detailed, structured, and visually organized for large content.
 
 ---
 
-## Assets To Add
-- Profile banner image  
-- Project screenshots  
-- Optional GIFs (UI interactions or gameplay)  
-- Icons / badges for styling  
-
----
-
 <p align="center">
   Building interactive experiences, one project at a time
 </p>
